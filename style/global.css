@@ -1,0 +1,8 @@
+html {
+    box-sizing: border-box;
+    --bg-color: rgb(122, 124, 224);
+}
+
+body {
+    background: var(--bg-color);
+}
